@@ -1,0 +1,6 @@
+# LEDA
+
+VÍDEO INTERESSANTE PARA ENTENDER A PARAMETRIZAÇÃO <T>, TIPOS GENÉRICOS.
+
+https://www.youtube.com/watch?v=rSRtrCaiKAE
+
